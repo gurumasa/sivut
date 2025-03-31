@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Etusivu"
+    url: /
+  - title: "Blogi"
+    url: /blog/
+  - title: "Arkisto"
+    url: /arkisto/
+  - title: "Aiheet"
+    url: /categories/
+  - title: "Kirjoituksiani"
+    url: /kirjoitukset/
+  # - title: "Haku"
+  #  url: /haku/
